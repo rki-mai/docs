@@ -4,3 +4,4 @@
 
 - [ADRs](./ADRs/README.md) - директория с записями архитектурных решений
 - [Decision Log](./Decision-Log.md) - журнал оперативных решений
+- [Runbook](./Runbook.md) - операционное руководство (on-call)
